@@ -12,47 +12,6 @@ This project is designed to help you master:
 - Objects and Classes
 - Basic Data Structures implementation
 
-## 📁 Project Structure
-
-```
-JavaProgramming/
-├── README.md
-├── src/
-│   ├── basics/
-│   │   ├── HelloWorld.java
-│   │   ├── Variables.java
-│   │   └── ControlFlow.java
-│   ├── loops/
-│   │   ├── LoopExamples.java
-│   │   └── NumberPatterns.java
-│   ├── methods/
-│   │   ├── BasicMethods.java
-│   │   └── RecursionExamples.java
-│   ├── arrays/
-│   │   ├── ArrayOperations.java
-│   │   └── SearchAlgorithms.java
-│   ├── oop/
-│   │   ├── Person.java
-│   │   ├── Employee.java
-│   │   └── Calculator.java
-│   └── projects/
-│       ├── project1-student-management/
-│       │   ├── Student.java
-│       │   ├── StudentManager.java
-│       │   └── Main.java
-│       └── project2-basic-stack/
-│           ├── Stack.java
-│           ├── StackDemo.java
-│           └── Main.java
-├── docs/
-│   ├── java-basics.md
-│   ├── oop-concepts.md
-│   └── dsa-preparation.md
-└── exercises/
-    ├── beginner/
-    ├── intermediate/
-    └── solutions/
-```
 
 ## 🚀 Getting Started
 
@@ -70,13 +29,6 @@ JavaProgramming/
 2. **Run the compiled class:**
    ```bash
    java ClassName
-   ```
-
-3. **For project directories:**
-   ```bash
-   cd src/projects/project1-student-management
-   javac *.java
-   java Main
    ```
 
 ## 📚 Learning Path
@@ -101,32 +53,6 @@ JavaProgramming/
 2. **Array Operations** - Searching, sorting, merging
 3. **Basic Data Structures** - Stack, Queue implementations
 
-## 🎯 Featured Projects
-
-### Project 1: Student Management System
-A simple console-based application that demonstrates:
-- Class creation and object instantiation
-- Constructor usage
-- Method implementation
-- Basic data handling
-
-**Features:**
-- Add student records
-- Display student information
-- Calculate average grades
-- Search for students
-
-### Project 2: Basic Stack Implementation
-A stack data structure implementation using arrays:
-- Stack operations (push, pop, peek)
-- Error handling for stack overflow/underflow
-- Practical usage examples
-
-**Features:**
-- Array-based stack implementation
-- LIFO (Last In, First Out) operations
-- Stack size management
-- Demonstration of stack applications
 
 ## 📖 Key Concepts Covered
 
@@ -192,13 +118,6 @@ A stack data structure implementation using arrays:
 - "Java: The Complete Reference" by Herbert Schildt
 - "Effective Java" by Joshua Bloch
 
-## 🤝 Contributing
-
-Feel free to:
-- Add more practice problems
-- Improve existing code
-- Suggest better implementations
-- Add documentation
 
 ## 📝 Notes
 
