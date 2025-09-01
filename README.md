@@ -122,7 +122,6 @@ This project is designed to help you master:
 ## 📝 Notes
 
 - All code includes comments for better understanding
-- Each project has its own README with specific instructions
 - Solutions are provided for reference, try solving problems first
 - Focus on understanding concepts rather than memorizing syntax
 

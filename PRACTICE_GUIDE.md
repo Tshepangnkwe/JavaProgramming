@@ -68,13 +68,12 @@ This guide provides a structured approach to learning Java fundamentals for DSA 
 **Goal**: Apply knowledge to basic data structures
 
 #### Week 7: Array-Based Structures
-- [ ] Study `src/projects/project2-basic-stack/`
+- [ ] Implement stack using arrays
 - [ ] Implement queue using arrays
 - [ ] Create dynamic array class
 - [ ] Practice array algorithms
 
 #### Week 8: Real-World Applications
-- [ ] Study `src/projects/project1-student-management/`
 - [ ] Create your own management system
 - [ ] Combine all learned concepts
 - [ ] Prepare for advanced DSA topics

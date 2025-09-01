@@ -17,10 +17,6 @@ This document provides an overview of all the documentation and resources availa
 1. **[Method Exercises](../exercises/methods/METHOD_EXERCISES.md)** - 10 progressive method practice problems
 2. **[OOP Exercises](../exercises/oop/OOP_EXERCISES.md)** - 14 comprehensive object-oriented programming challenges
 
-### Project Documentation
-1. **[Student Management System](../src/projects/project1-student-management/README.md)** - Complete OOP project guide
-2. **[Basic Stack Implementation](../src/projects/project2-basic-stack/README.md)** - Data structure project guide
-
 ## 📖 How to Use This Documentation
 
 ### For Beginners (Never programmed before)
